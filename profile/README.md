@@ -1,4 +1,4 @@
-<img src="./profile/images/asas.png" align="left" width="500" height="457"/>
+<img src="./profile/images/asas.png" align="left" width="400" height="357"/>
 
 ## Welcome
 
@@ -14,7 +14,7 @@ Every member of this GitHub organization can read every repository.
 
 If you have a special use case, which doesn't allow for code reading or sharing,
 your repository should go into
-[wipro-tech-solutions](https://github.com/wipro-tech-solutions).
+[wipro-tech-solutions](https://github.com/orgs/wipro-tech-solutions/discussions).
 <br clear="left"/>
 
 ## Invite others to this organization
