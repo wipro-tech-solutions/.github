@@ -14,7 +14,7 @@ Every member of this GitHub organization can read every repository.
 
 If you have a special use case, which doesn't allow for code reading or sharing,
 your repository should go into
-[metro-digital-closed-source](https://github.com/wipro-tech-solutions).
+[wipro-tech-solutions](https://github.com/wipro-tech-solutions).
 <br clear="left"/>
 
 ## Invite others to this organization
