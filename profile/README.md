@@ -1,4 +1,4 @@
-<img src="./profile/images/asas.png" align="left" />
+<img src="./profile/images/asas.png" align="left" width="500" height="457"/>
 
 ## Welcome
 
